@@ -512,6 +512,9 @@ ul.nav{
 .about{
 	background: #fff;
 }
+.form-inline{
+	background-color:#000000;
+}
 .input-group{
 	Background-color:#ffffff;
 }
