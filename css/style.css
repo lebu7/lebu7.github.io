@@ -8,6 +8,15 @@ p{
 	color: #000000;
 	font-size: 10px;
 }
+.lane{
+	color:#000000;
+	font-size:1px;
+}
+.lene{
+	color:#ffffff;
+	font-size:1px;
+
+}
 .bam{
 	margin-top: 100px;
 	position: bottom center;
