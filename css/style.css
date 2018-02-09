@@ -3,6 +3,7 @@ body{
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
 	overflow-x :hidden;
+	overflow:hidden;
 }
 p{
 	color: #000000;
@@ -19,6 +20,8 @@ hr{
 }
 .top-header{
 	overflow:hidden;
+	margin-left: 0;
+    	margin-right: 0;
 }
 .en{
  	color:#000000;
