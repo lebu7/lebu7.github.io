@@ -18,11 +18,6 @@ hr{
 	background-color:#000000;
 	height:1px:
 }
-.top-header{
-	overflow-x:hidden;
-	margin-left: 0;
-    	margin-right: 0;
-}
 .en{
  	color:#000000;
 	font-size:15px;
@@ -40,8 +35,11 @@ a:hover, a:visited, a{
 .top-header{
 	background: #000000 ;
 	position: fixed;
-	/*width: 96%;*/
+	width: 97%;
 	z-index: 333;
+	overflow-x:hidden;
+	margin-left: 0;
+    	margin-right: 0;
 
 }
 .form-horizontal label{
@@ -178,7 +176,7 @@ a:hover, a:visited, a{
 	-moz-transition:all 0.7s ease 0s;
 	-o-transition:all 0.7s ease 0s;
 	-ms-transition:all 0.7s ease 0s;
-	overflow: 
+	overflow: hidden;
 }
 .navbar-toggle span{
 	color: #fff;
