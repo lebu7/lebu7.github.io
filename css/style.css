@@ -36,8 +36,8 @@ a:hover, a:visited, a{
 .top-header{
 	background: #000000 ;
 	position: fixed;
-	width: 97%;
-	z-index: 333;
+	width: 99%;
+	/*z-index: 333;*/
 	overflow-x:hidden;
 	margin-left: 0;
     	margin-right: 0;
