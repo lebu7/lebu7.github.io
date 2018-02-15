@@ -37,10 +37,10 @@ a:hover, a:visited, a{
 	background: #000000 ;
 	position: fixed;
 	width: 99%;
-	/*z-index: 333;*/
+	z-index: 333;
 	overflow-x:hidden;
-	margin-left: 0;
-    	margin-right: 0;
+	margin-left: 2px;
+    	margin-right: 2px;
 
 }
 .form-horizontal label{
