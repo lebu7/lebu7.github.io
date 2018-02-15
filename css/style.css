@@ -36,11 +36,11 @@ a:hover, a:visited, a{
 .top-header{
 	background: #000000 ;
 	position: fixed;
-	width: 99%;
+	width: 100%;
 	z-index: 333;
 	overflow-x:hidden;
-	margin-left: 2px;
-    	margin-right: 2px;
+	margin-left: 3px;
+    	margin-right: 3px;
 
 }
 .form-horizontal label{
