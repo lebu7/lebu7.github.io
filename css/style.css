@@ -39,8 +39,8 @@ a:hover, a:visited, a{
 	width: 100%;
 	z-index: 333;
 	overflow-x:hidden;
-	margin-left: 3px;
-    	margin-right: 3px;
+	margin-left: 0px;
+    	margin-right: 0px;
 
 }
 .form-horizontal label{
