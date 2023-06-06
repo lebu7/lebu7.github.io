@@ -42,7 +42,7 @@ a:hover, a:visited, a{
     	margin-right: 0 auto;
 	overflow-x: auto;
 	overflow-y: hidden;
-	maargin: 0;
+	margin: 0;
 }
 .form-horizontal label{
 	color: #000000;
