@@ -476,7 +476,7 @@ ul.nav{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	height: 650px;
+	height: 100%;
 }
 .banner h3{
 	font-size: 30px;
