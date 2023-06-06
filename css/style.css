@@ -37,7 +37,7 @@ a:hover, a:visited, a{
 	background: #000000 ;
 	position: fixed;
 	width: 100%;
-	z-index:;
+	z-index:333;
 	margin-left: 0 auto;
     	margin-right: 0 auto;
 	overflow-x: auto;
@@ -500,7 +500,7 @@ ul.nav{
 	color: lightgreen;
 }
 .banner img{
-	margin: 50px;
+	margin: ;
 }
 .banner button{
 	width: 150px;
