@@ -37,7 +37,7 @@ a:hover, a:visited, a{
 	background: #000000 ;
 	position: fixed;
 	width: 100%;
-	z-index: 333;
+	z-index:;
 	margin-left: 0 auto;
     	margin-right: 0 auto;
 	overflow-x: auto;
