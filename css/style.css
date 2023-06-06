@@ -472,11 +472,12 @@ ul.nav{
 
 
 .banner{
-background: url(../img/statue.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background: url(../img/statue.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    
 }
 .banner h3{
 	font-size: 30px;
