@@ -457,11 +457,13 @@ ul.nav{
 	color: #DC143C;
 	font-style: italic;
 	font-weight: bold;
+	text-decoration: none;
 }
 .greed:hover{
 	color: #32CD32;
-	font-style: italic;
-	font-weight: bold;
+	font-style: normal;
+	font-weight: bolder;
+	text-decoration: none;
 }
 .social-buttons{
 	padding-top: 10px;
