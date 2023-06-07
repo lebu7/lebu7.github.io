@@ -13,6 +13,7 @@ p{
 	text-align: center;
 	position: absolute;
 	bottom: 0;
+	top: 90%;
 }
 hr{
 	color:#C0C0C0;
@@ -479,6 +480,7 @@ ul.nav{
     min-width: 1024px;
     width: 100%;
     height: 788px;
+	position: relative;
 }
 .banner h3{
 	font-size: 30px;
