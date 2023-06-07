@@ -565,7 +565,9 @@ ul.nav{
 	font-size: 5px;
 }
 .single-about{
-	margin-bottom: 90px;
+	margin-bottom: 16%;
+	margin-top: 1%;
+	padding-bottom: 8%;
 }
 .single-about + .single-about{
 	border-left: 1px solid #DC143C;
