@@ -444,7 +444,10 @@ ul.nav{
 .githubs:hover{
 	color: #DC143C;
 	
-	
+}
+.social-buttons{
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 /*.bree {
 	border-top: #DC143C 1px;
