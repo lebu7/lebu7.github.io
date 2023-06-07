@@ -12,6 +12,7 @@ p{
 .boon {
     margin-left: -90px;
 	margin-right: 60px;
+	alig-items: end;
 }
 hr{
 	color:#000000;
@@ -479,7 +480,7 @@ ul.nav{
     min-height: 100%;
     min-width: 1024px;
     width: 100%;
-    height: auto;
+    height: 788px;
     
 }
 .banner h3{
