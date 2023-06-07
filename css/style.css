@@ -46,7 +46,7 @@ a:hover, a:visited, a{
 	color: #000000;
 }
 .green{
-	color: lightgreen;
+	color: l#32CD32;
 	opacity: 0.9;
 	text-align: center;
 	/*text-shadow: 0 0 3px 
@@ -453,6 +453,16 @@ ul.nav{
 	color: #DC143C;
 	
 }
+.greed, .greed:visited{
+	color: #DC143C;
+	font-style: italic;
+	font-weight: bold;
+}
+.greed:hover{
+	color: #32CD32;
+	font-style: italic;
+	font-weight: bold;
+}
 .social-buttons{
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -497,7 +507,7 @@ ul.nav{
 }*/
 
 .last{
-	color:lightgreen;
+	color:#32CD32;
 }l
 .color{
 	color:red;
@@ -549,7 +559,7 @@ ul.nav{
 }
 .banner h3{
 	font-size: 30px;
-	color: lightgreen;
+	color: l#32CD32;
 	margin-top: 80px;
 	font-weight: 800;
 }
@@ -565,7 +575,7 @@ ul.nav{
 .banner p{
 	margin-top: 40px;
 	font-size: 18px;
-	color: lightgreen;
+	color: #32CD32;
 }
 .banner img{
 	margin: 0;
