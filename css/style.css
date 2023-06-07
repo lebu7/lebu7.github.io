@@ -530,6 +530,7 @@ ul.nav{
 }
 .about{
 	background: #fff;
+	max-height: 100vh;
 }
 .form-inline{
 	background-color:#ffffff;
