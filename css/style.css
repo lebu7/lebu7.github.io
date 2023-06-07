@@ -608,7 +608,16 @@ ul.nav{
 
 .service{
 	margin: 0;
-	padding: 0;
+	padding: 5px;
+	background: url(../img/.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+.Expertise{
+	margin: 0;
+	padding: 5px;
 	background: url(../img/.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
