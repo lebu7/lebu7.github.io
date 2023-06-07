@@ -805,8 +805,21 @@ nav#tf-footer {
 	color: #f8f3f3;
 
 }
-
-
+div#sec5 {
+    padding-top: 60px;
+}
+div#sec0 {
+    padding-top: 60px;
+}
+div#sec2 {
+    padding-top: 20px;
+}
+div#sec3 {
+    padding-top: 20px;
+}
+div#sec4 {
+    padding-top: 20px;
+}
 @media (min-width: 1200px) {
 	
 }
