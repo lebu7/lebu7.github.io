@@ -1,3 +1,4 @@
+document.write(new Date().getFullYear());
 (function($) {
 
 jQuery(document).ready(function() {
