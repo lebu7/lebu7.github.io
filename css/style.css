@@ -120,6 +120,7 @@ a:hover, a:visited, a{
 	text-transform: uppercase;
 	font-weight: bolder;
 	font-style: oblique;
+	padding-top: 5%;
 }
 .con{
 	color: #ffffff;
