@@ -278,32 +278,32 @@ ul.nav{
 	display: block;
 	float: center;
 }
-.tw {
+.tw, .tw:visited {
 	color: #ffffff;
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 }
-.instagram{
+.instagram, .instagram:visited{
 	color: #ffffff;
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 }
-.fb{
+.fb, .fb:visited{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left:5%;
 
-}.youtube{
+}.youtube, .youtube:visited{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 
 }
-.github{
+.github, .github:visited{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
