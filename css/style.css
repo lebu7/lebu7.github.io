@@ -15,10 +15,9 @@ p{
 	bottom: 0;
 }
 hr{
-	color:#000000;
-	background-color:#000000;
+	color:#C0C0C0;
+	background-color:#C0C0C0;
 	height:1px;
-		border:solid #000000 1px;
 }
 .en{
  	color:#000000;
@@ -31,9 +30,6 @@ hr{
 a:hover, a:visited, a{
 	text-decoration: none;
 }
-/*#bs-example-navbar-collapse-1{
-	background: #02918C;
-}*/
 .top-header{
 	background: #000000 ;
 	position: fixed;
@@ -220,7 +216,8 @@ ul.nav{
 	
 }
 .bg3{
-	padding-left: 12px;
+	padding-left: 10%;
+	padding-right: 10%;
 }
 .bg4{
 
@@ -240,9 +237,6 @@ ul.nav{
 .dea{
 	border: solid #DC143C 1px;
 	padding-left: 14px;
-}
-.container-fluid { 
-	
 }
 .feedx{
 	color:#000000;
@@ -407,7 +401,7 @@ ul.nav{
 .bless{
 	margin-left: 10px;
 	margin-right: 10px;
-	width: 200px; 
+	width: 30%; 
 	display: inline;
 }
 /*.buzz h3:hover{
