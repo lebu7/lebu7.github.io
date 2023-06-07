@@ -124,6 +124,13 @@ a:hover, a:visited, a{
 	font-style: oblique;
 	padding-top: 5%;
 }
+.feed5{
+
+	color: #DC143C;
+	text-transform: uppercase;
+	font-weight: bolder;
+	font-style: oblique;
+}
 .con{
 	color: #ffffff;
 	font-size: 24px;
