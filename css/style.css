@@ -13,6 +13,7 @@ p{
 	position: absolute;
 	bottom: 0;
 	top: 90%;
+	width: 100%;
 }
 hr{
 	color:#C0C0C0;
@@ -47,6 +48,7 @@ a:hover, a:visited, a{
 .green{
 	color: lightgreen;
 	opacity: 0.9;
+	text-align: center;
 	/*text-shadow: 0 0 3px 
 		rgba(255,255,255,1) , 0 0 1px 
 		rgba(255,255,255,1) , 0 0 1px 
