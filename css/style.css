@@ -17,7 +17,7 @@ p{
 hr{
 	color:#000000;
 	background-color:#000000;
-	height:1px:
+	height:1px;
 		border:solid #000000 1px;
 }
 .en{
@@ -241,11 +241,11 @@ ul.nav{
 	border: solid #DC143C 1px;
 	padding-left: 14px;
 }
-.container-fluid{
-	padding-top
+.container-fluid { 
+	
 }
 .feedx{
-	color: #000000;
+	color:#000000;
 	font-style: oblique;
 	font-size: 10px;
 }
@@ -274,34 +274,32 @@ ul.nav{
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
-	padding-right: 
 }
 .instagram{
 	color: #ffffff;
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
-	padding-right: 
 }
 .fb{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left:5%;
-	padding-right: 
+
 }.youtube{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
-	padding-right: 
+
 }
 .github{
 	color: #ffffff;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
-	padding-right: 
+
 }
 .instagram:hover{
 	color: aqua;
@@ -395,17 +393,17 @@ ul.nav{
 }
 /*.bree {
 	border-top: #DC143C 1px;
-	border-bottom: #DC143C 1px;*/
-}
+	border-bottom: #DC143C 1px;
+}*/
 .bizz{
 	position: 40px 100px;
 	position: left bottom;
 }
 /*.buzz{
 	color: #ffffff;
-	background: #DC143C;*/
+	background: #DC143C;
 
-}
+}*/
 .bless{
 	margin-left: 10px;
 	margin-right: 10px;
@@ -428,7 +426,7 @@ ul.nav{
 	transform: none;
 	-webkit-transform-origin: 150% 150% 100;
 	transform-origin: 150% 150% 100;
-	/*box-shadow: inset 20px 0px 60px 5px #32cd32,10px 0px 60px 5px #32cd32;*/
+	/*box-shadow: inset 20px 0px 60px 5px #32cd32,10px 0px 60px 5px #32cd32;
 	
 }*/
 
@@ -451,7 +449,7 @@ ul.nav{
 	font-size: 10px;
 	font-weight: bolder;
 	font-style: oblique;
-	padding-bottom: 
+
 }
 .last1{
 	color:green;
@@ -503,7 +501,7 @@ ul.nav{
 	color: lightgreen;
 }
 .banner img{
-	margin: ;
+	margin: 0;
 }
 .banner button{
 	width: 150px;
@@ -783,8 +781,6 @@ ul.nav{
     text-align: center;
 }
 
-
-}
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #FFF;
 }
@@ -798,7 +794,7 @@ nav#tf-footer {
 	padding: 3% 0 2% 0;
 	color: #f8f3f3;
 
-
+}
 
 
 @media (min-width: 1200px) {
