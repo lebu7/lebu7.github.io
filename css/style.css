@@ -12,7 +12,8 @@ p{
 .boon {
     margin-left: -90px;
 	margin-right: 60px;
-	alig-items: end;
+	position: absolute;
+	bottom: 0;
 }
 hr{
 	color:#000000;
