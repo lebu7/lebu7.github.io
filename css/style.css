@@ -392,6 +392,60 @@ ul.nav{
 	/*box-shadow: inset 20px 0px 60px 5px #32cd32,10px 0px 60px 5px #32cd32;*/
 	
 }
+.tws {
+	color: #d9534f;
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 5%;
+}
+.instagrams{
+	color: #d9534f;
+	padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 5%;
+}
+.fbs{
+	color: #d9534f;
+    padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left:5%;
+
+}.youtubes{
+	color: #d9534f;
+    padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 5%;
+
+}
+.githubs{
+	color: #d9534f;
+    padding-bottom: 0%;
+	padding-top: 0%;
+	padding-left: 5%;
+
+}
+.instagrams:hover{
+	color: #DC143C;
+	
+	
+}
+.tws:hover{
+	color: #DC143C;
+	
+}
+.fbs:hover{
+	color: #DC143C;
+	
+}
+.youtubes:hover{
+	color: #DC143C
+	
+}
+.githubs:hover{
+	color: #DC143C;
+	
+	
+}
 /*.bree {
 	border-top: #DC143C 1px;
 	border-bottom: #DC143C 1px;
