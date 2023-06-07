@@ -215,6 +215,11 @@ ul.nav{
 	/*box-shadow: inset 20px 0px 60px 5px #32cd32,10px 0px 60px 5px #32cd32;*/
 	
 }
+.badge{
+	display: block;
+    max-width: 100%;
+    height: 160px;
+}
 .bg3{
 	padding-left: 10%;
 	padding-right: 10%;
