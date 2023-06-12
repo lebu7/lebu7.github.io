@@ -407,16 +407,20 @@ ul.nav{
 	
 }
 .email, .email:visited {
-	color: #DC143C;	
+	color: #DC143C;
+	font-size: 30px;	
 }
 .phone, .iphone:visited{
 	color: #DC143C;
+	font-size: 30px;
 }
-.tws:hover{
-	color: #d9534f;	
-}
-.fbs:hover{
+.email:hover{
 	color: #d9534f;
+	font-size: 20px;	
+}
+.phone:hover{
+	color: #d9534f;
+	font-size: 20px;
 }
 
 .tws, .tws:visited {
