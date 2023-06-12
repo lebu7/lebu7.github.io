@@ -190,6 +190,12 @@ a:hover, a:visited, a{
 .navbar-toggle span{
 	color: #fff;
 }
+.navbar-toggle span:visited{
+	color: #fff;
+}
+.navbar-toggle span:active{
+	color: #fff;
+}
 ul.nav{
 	margin: 0;
 	padding: 0;
