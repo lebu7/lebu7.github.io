@@ -406,6 +406,19 @@ ul.nav{
 	/*box-shadow: inset 20px 0px 60px 5px #32cd32,10px 0px 60px 5px #32cd32;*/
 	
 }
+.email, .email:visited {
+	color: #DC143C;	
+}
+.phone, .iphone:visited{
+	color: #DC143C;
+}
+.tws:hover{
+	color: #d9534f;	
+}
+.fbs:hover{
+	color: #d9534f;
+}
+
 .tws, .tws:visited {
 	color: #d9534f;
 	padding-bottom: 0%;
