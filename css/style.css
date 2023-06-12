@@ -415,69 +415,69 @@ ul.nav{
 	font-size: 30px;
 }
 .email:hover{
-	color: #d9534f;
+	color: #32CD32;
 	font-size: 20px;	
 }
 .phone:hover{
-	color: #d9534f;
+	color: #32CD32;;
 	font-size: 20px;
 }
 
 .tws, .tws:visited {
-	color: #d9534f;
+	color: #DC143C;
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 }
 .instagrams, .instagrams:visited{
-	color: #d9534f;
+	color: #DC143C;
 	padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 }
 .fbs, .fbs:visited{
-	color: #d9534f;
+	color: #DC143C;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left:5%;
 
 }.youtubes, .youtubes:visited{
-	color: #d9534f;
+	color: #DC143C;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 
 }
 .githubs, .githubs:visited{
-	color: #d9534f;
+	color: #DC143C;
     padding-bottom: 0%;
 	padding-top: 0%;
 	padding-left: 5%;
 
 }
 .instagrams:hover{
-	color: #DC143C;
+	color: #32CD32;;
 	
 	
 }
 .tws:hover{
-	color: #DC143C;
+	color: #32CD32;;
 	
 }
 .fbs:hover{
-	color: #DC143C;
+	color: #32CD32;;
 	
 }
 .youtubes:hover{
-	color: #DC143C
+	color: #32CD32;
 	
 }
 .githubs:hover{
-	color: #DC143C;
+	color: #32CD32;;
 	
 }
 .greed, .greed:visited{
-	color: #DC143C;
+	color: #32CD32;;
 	font-style: italic;
 	font-weight: bold;
 	text-decoration: none;
