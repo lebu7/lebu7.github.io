@@ -408,19 +408,19 @@ ul.nav{
 }
 .email, .email:visited {
 	color: #DC143C;
-	font-size: 30px;	
+	font-size: 20px;	
 }
 .phone, .iphone:visited{
 	color: #DC143C;
-	font-size: 30px;
+	font-size: 20px;
 }
 .email:hover{
 	color: #32CD32;
-	font-size: 20px;	
+	font-size: 17px;	
 }
 .phone:hover{
 	color: #32CD32;;
-	font-size: 20px;
+	font-size: 17px;
 }
 
 .tws, .tws:visited {
