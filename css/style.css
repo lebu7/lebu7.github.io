@@ -511,10 +511,9 @@ ul.nav{
 
 }*/
 .bless{
-	margin: 0 5% 5% 0;
-    background: #ffffff;
-    padding: 1.6666666666% 1.6666666666% 0 1.6666666666%;
-	width: 30%;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 30%; 
 	display: inline;
 }
 /*.buzz h3:hover{
